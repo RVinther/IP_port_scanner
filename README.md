@@ -18,7 +18,7 @@ Projektet kombinerer teori om IP, TCP, porte og forbindelser med et simpelt CLI-
 - Validering af IP-adresser og portnumre  
 - Tydelig status på hver port (ÅBEN/LUKKET)  
 
-## Mangler du en datatekniker-voksenelev?
+## Mangler du en datatekniker-voksenlærling?
 
 Foruden en stor passion for fodbold, Formula One, litteratur og familieliv, kan du forvente:
 
